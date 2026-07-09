@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.env/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# MediaPipe model (optional)
+*.task
+
+# Logs
+*.log
+
+# Images
+*.png
+*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+dist/
+
+# Cache
+.cache/
+
+# Python cache
+.pytest_cache/
+
+# Qt
+*.qmlc
